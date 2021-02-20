@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Warwick Clarinet</title>
+    <link>https://www.warwickclarinet.co.uk/</link>
+    <description>Performances including James Hughes</description>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en-gb</language>
+    <pubDate>Sat, 20 Feb 2021 13:30:00 +0000</pubDate>
+    <lastBuildDate>Sat, 20 Feb 2021 13:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.warwickclarinet.co.uk/images/artwork.jpg</url>
+      <title>Warwick Clarinet</title>
+      <link>https://www.warwickclarinet.co.uk/</link>
+    </image>
+    <itunes:author>James Hughes</itunes:author>
+    <itunes:subtitle>Performances including James Hughes</itunes:subtitle>
+    <itunes:summary>Performances including James Hughes</itunes:summary>
+    <itunes:keywords>clarinet, warwick, james, hughes</itunes:keywords>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://www.warwickclarinet.co.uk/images/artwork.jpg"/>
+    <itunes:owner>
+      <itunes:name>James Hughes</itunes:name>
+      <itunes:email>contact@warwickclarinet.co.uk</itunes:email>
+    </itunes:owner>
+    <itunes:block>no</itunes:block>
+    <itunes:category text="Arts">
+      <itunes:category text="Performing Arts" />
+    </itunes:category>
+    <item>
+      <title>Clarinet Ensemble</title>
+      <description>James performs alongside his clarinet colleagues at Birmingham Conservatoire</description>
+      <enclosure url="https://www.warwickclarinet.co.uk/videos/clarinet-ensemble.m4v" length="29145026" type="video/mp4"/>
+      <guid isPermaLink="false">clarinet-ensemble</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
